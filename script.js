@@ -53,3 +53,6 @@ let balance = 0;
       function clearInput() {
         document.getElementById("amount").value = "";
       }
+
+
+      
